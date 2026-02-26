@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadesAndGrays&theme=dracula&hide_border=true&background=030633&sideNums=00ffff&stroke=00ffff" alt="GitHub Streak" />
+  <img src="https://grs.shadowskyking.duckdns.org/streak/?user=ShadesAndGrays&theme=dracula&hide_border=true&background=030633&sideNums=00ffff&stroke=00ffff" alt="GitHub Streak" />
 </p>
 </p>
